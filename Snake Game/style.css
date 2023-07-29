@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f2ee9d;
+    font-family: sans-serif;
+}
+h2{
+    color: #7a9d54;
+}
+#msg{
+    margin-bottom: 1em;
+}
+#gameBoard{
+    border: 3px solid;
+}
+#score{
+    margin-top: 2em;
+    font-size: large;
+}
